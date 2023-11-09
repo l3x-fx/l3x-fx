@@ -1,10 +1,18 @@
-# Hi, I'm Sabine
+## My Projects:
 
-## 🌐 Contact me:
+### MyStore Fullstack Project
+
+#### [Live here] (https://lively-bush-066e13b03.4.azurestaticapps.net/)
+
+[Frontend repository] (https://github.com/l3x-fx/MyStoreApp)
+
+[Backend repository] (https://github.com/l3x-fx/MyStoreApp)
+
+## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabine-fleischmann-463a20236)
 
-# 💻 Tech Stack:
+## Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,14 +35,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![CIRCLECI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CIRCLECI](https://img.shields.io/badge/CIRCLECI-02303A.svg?style=for-the-badge&logo=CIRCLECI&logoColor=white&color=%23343434) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=l3x-fx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote ✍️
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
