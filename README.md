@@ -1,6 +1,6 @@
-## My Projects:
+##My Projects:
 
-### MyStore Fullstack Project
+###MyStore Fullstack Project
 
 **[LIVE ON AZURE](https://lively-bush-066e13b03.4.azurestaticapps.net/)**
 
@@ -10,7 +10,7 @@
 [Backend repository](https://github.com/l3x-fx/Storefront_Backend_Project)  
  Node.js | Express
 
-### Spotify Jamming Project
+###Spotify Jamming Project
 
 **[LIVE ON NETLIFY](https://github.com/l3x-fx/SpotifyJamming)**
 
