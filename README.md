@@ -12,20 +12,20 @@
 
 ### Spotify Jamming Project
 
-**[LIVE ON NETLIFY]()**
+**[LIVE ON NETLIFY](https://github.com/l3x-fx/SpotifyJamming)**
 
 [Frontend repository](https://github.com/l3x-fx/SpotifyJamming)  
  React | Redux | Javascript
 
 ### Appointment Planner Project
 
-**[LIVE ON NETLIFY]()**
+**[LIVE ON NETLIFY](https://github.com/l3x-fx/Appointment-Planner)**
 [Frontend repository](https://github.com/l3x-fx/Appointment-Planner)
 React | Redux | Javascript
 
 ### Would you rather? Project
 
-**[LIVE ON NETLIFY]()**
+**[LIVE ON NETLIFY](https://github.com/l3x-fx/WouldYouRather) **
 [Frontend repository](https://github.com/l3x-fx/WouldYouRather)  
  React | Redux | Javascript
 
