@@ -31,7 +31,7 @@ React | Redux | Javascript
 
 ### Make it Happen
 
-**[LIVE ON EXPO SNACK](https://snack.expo.dev/@l3x-fx/makeithappen)**
+**[LIVE ON EXPO SNACK](https://snack.expo.dev/@l3x-fx/makeithappen)**  
 [Frontend repository](https://github.com/l3x-fx/MakeItHappen)  
  React Native | Redux | Javascript
 
