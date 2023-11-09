@@ -2,11 +2,38 @@
 
 ### MyStore Fullstack Project
 
-#### [Live here] (https://lively-bush-066e13b03.4.azurestaticapps.net/)
+**[LIVE ON AZURE](https://lively-bush-066e13b03.4.azurestaticapps.net/)**
 
-[Frontend repository] (https://github.com/l3x-fx/MyStoreApp)
+[Frontend repository](https://github.com/l3x-fx/MyStoreApp)  
+ Angluar | NgRx | Typescript
 
-[Backend repository] (https://github.com/l3x-fx/MyStoreApp)
+[Backend repository](https://github.com/l3x-fx/Storefront_Backend_Project)  
+ Node.js | Express
+
+### Spotify Jamming Project
+
+**[LIVE ON NETLIFY]()**
+
+[Frontend repository](https://github.com/l3x-fx/SpotifyJamming)  
+ React | Redux | Javascript
+
+### Appointment Planner Project
+
+**[LIVE ON NETLIFY]()**
+[Frontend repository](https://github.com/l3x-fx/Appointment-Planner)
+React | Redux | Javascript
+
+### Would you rather? Project
+
+**[LIVE ON NETLIFY]()**
+[Frontend repository](https://github.com/l3x-fx/WouldYouRather)  
+ React | Redux | Javascript
+
+### Make it Happen
+
+**[LIVE ON EXPO SNACK](https://snack.expo.dev/@l3x-fx/makeithappen)**
+[Frontend repository](https://github.com/l3x-fx/MakeItHappen)  
+ React Native | Redux | Javascript
 
 ## Contact:
 
