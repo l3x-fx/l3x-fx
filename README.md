@@ -2,43 +2,6 @@
 
 Front-End Engineer
 
-## My Projects:
-
-### MyStore Fullstack Project
-
-**[LIVE ON AZURE](https://lively-bush-066e13b03.4.azurestaticapps.net/)**
-
-[Frontend repository](https://github.com/l3x-fx/MyStoreApp)  
- Angluar | NgRx | Typescript
-
-[Backend repository](https://github.com/l3x-fx/Storefront_Backend_Project)  
- Node.js | Express
-
-### Spotify Jamming Project
-
-**[LIVE ON NETLIFY](https://github.com/l3x-fx/SpotifyJamming)**
-
-[Frontend repository](https://github.com/l3x-fx/SpotifyJamming)  
- React | Redux | Javascript
-
-### Appointment Planner Project
-
-**[LIVE ON NETLIFY](https://github.com/l3x-fx/Appointment-Planner)**
-[Frontend repository](https://github.com/l3x-fx/Appointment-Planner)
-React | Redux | Javascript
-
-### Would you rather? Project
-
-**[LIVE ON NETLIFY](https://github.com/l3x-fx/WouldYouRather) **
-[Frontend repository](https://github.com/l3x-fx/WouldYouRather)  
- React | Redux | Javascript
-
-### Make it Happen
-
-**[LIVE ON EXPO SNACK](https://snack.expo.dev/@l3x-fx/makeithappen)**  
-[Frontend repository](https://github.com/l3x-fx/MakeItHappen)  
- React Native | Redux | Javascript
-
 ## Contact:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabine-fleischmann-463a20236)
