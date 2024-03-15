@@ -1,6 +1,6 @@
 # Hi, I'm Sabine Fleischmann
 
-Front-End Engineer
+Web-Developer
 
 ## Contact:
 
